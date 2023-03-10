@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a}from"./app.f46bd033.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"diary/month/month2.md","lastUpdated":null}'),n={name:"diary/month/month2.md"},s=a("p",null,"this is month2",-1),r=[s];function c(d,i,_,m,l,p){return o(),e("div",null,r)}const u=t(n,[["render",c]]);export{f as __pageData,u as default};
