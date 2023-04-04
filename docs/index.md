@@ -8,11 +8,11 @@ hero:
   tagline: 不服输才拥有无限的可能，在童话和现实都适用
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 摘抄集
+      link: /excerpt
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 杂记
+      link: /jottings
 
 features:
   - title: Journal
