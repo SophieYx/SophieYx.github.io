@@ -20,6 +20,4 @@ features:
 
   - title: Note
     details: 笔记
-  - title:
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

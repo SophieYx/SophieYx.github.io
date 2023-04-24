@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Sophie",
+  lastUpdated: true,
   description: "笔记",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -72,6 +73,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright  2023-present by Sophie'
+    }
   }
 })
