@@ -1,0 +1,23 @@
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(
+      120deg,
+      #32b8a8,
+      #32b8a8
+    );
+    --vp-c-brand: #82aae3;
+  
+    /* brand按钮 */
+    --vp-button-brand-border: #7cd3de;
+    --vp-button-brand-bg: #7cded4;
+  
+    --vp-button-brand-hover-border: #009e8e;
+    --vp-button-brand-hover-bg: #009e8e;
+  
+    --vp-button-brand-active-border: #7dd6ca;
+    --vp-button-brand-active-bg: #7dd6ca;
+  
+    --vp-c-brand-dark: #009e8e;
+  }
+  
+  
